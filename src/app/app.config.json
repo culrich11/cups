@@ -1,0 +1,15 @@
+{
+	"appname": "cups",
+	"scope": "",
+	"clientid": "466EF770-27A8-4893-ADD1-DB3275079E8E",
+	"buyerid": "madmanespresso",
+	"catalogid": "madmanespresso",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
